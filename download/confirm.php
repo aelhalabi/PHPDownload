@@ -1,6 +1,6 @@
 <?php
-/* EZ PHP Download
-	- Version: 1.2
+/* PHP Download
+	- Version: 1.0
 	- License: GNU
 	- Author: Andrew Halabi <scripts@venzium.com>
 	- Www: http://venzium.com/scripts/

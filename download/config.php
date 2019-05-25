@@ -1,7 +1,7 @@
 <?php
 
-/* EZ PHP Download
-- Version: 1.2
+/* PHP Download
+- Version: 1.0
 - Author: Andrew Halabi <scripts@venzium.com> */
 
 
@@ -11,14 +11,11 @@
 	$siteurl	= "";	//	Your website's address (http://example.com) .. NO slashes at the end
 	$sitename	= "";	//	Name of your website (Joe's Blog)
 	$filename  	= "";	//	File that will be downloaded. (MyNewEbook.zip) Must be placed in folder /download/files/
-										
 
+##################################    INSTRUCTIONS   ########################################
 
-
-#######################################   INSTRUCTIONS   ######################################
-
-/*
-EZ PHP Download	- Version: 1.2 
+/* Nothing further to change
+PHP Download	- Version: 1.0
 
 Installation:
 

@@ -1,5 +1,5 @@
 <?php
-/* EZ PHP Download
+/* PHP Download
 	- Version: 1.0
 	- License: GNU
 	- Author: Andrew Halabi <scripts@venzium.com>

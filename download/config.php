@@ -7,11 +7,11 @@
 
 ################################   CHANGE THESE SETTINGS ##################################
 
-	$siteemail	=	"info@venzium.com";		//	 email address used to send confirmation links
-	$siteurl	=	"http://venzium.com";			//	your website's address (http://example.com) .. NO slashes at the end
-	$sitename	=	"Venzium";			// Joe Shome's Blog
-	$filename   =	"EZ_PHP_Download_1_2.zip";	//	file that will be downloaded. 
-										// 	Must be placed in folder /download/files/
+	$siteemail	= "";	//	Email address used to send confirmation links
+	$siteurl	= "";	//	Your website's address (http://example.com) .. NO slashes at the end
+	$sitename	= "";	//	Name of your website (Joe's Blog)
+	$filename  	= "";	//	File that will be downloaded. (MyNewEbook.zip) Must be placed in folder /download/files/
+										
 
 
 
